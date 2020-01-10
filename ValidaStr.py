@@ -1,0 +1,7 @@
+v1=(input('valor 1='))
+print('Numeric?',v1.isnumeric())
+print('Alpha?',v1.isalpha())
+print('Spaço?',v1.isspace())
+print('minusculo?',v1.islower())
+print('Maiucula?',v1.isupper())
+print('decimal?',v1.isdecimal())
